@@ -89,6 +89,14 @@
           "href": "https://ping0.cc/",
           "description": "",
           "icon": "/assets/favicon_1775315687738.png"
+        },
+        {
+          "id": "item-1775317528539",
+          "enabled": true,
+          "title": "帐户主页 | Za9799153@protonmail.com's Account | Cloudflare",
+          "href": "https://dash.cloudflare.com/eb56aeb15132e7baacb025c05eef183d/home/overview",
+          "description": "访问 dash.cloudflare.com",
+          "icon": "/assets/favicon_1775317524050.png"
         }
       ],
       "subCategories": []
