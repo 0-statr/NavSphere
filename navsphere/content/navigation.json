@@ -125,6 +125,14 @@
           "href": "https://linux.do/t/topic/1871216",
           "description": "新一期来啦： \n\n大多数人写 CLAUDE.md 的方式是：随便写几条规则，感觉效果不明显，然后放弃。 \n你不知道这些文字在 Claude 眼里长什么样、被放在哪里、和其他指令的优先级关系是什么。 \n今天我来带各位佬友们剖析一下 claud&amp;hellip;",
           "icon": "/assets/favicon_1775315577943.png"
+        },
+        {
+          "id": "item-1775316311243",
+          "enabled": true,
+          "title": "NodeSeek",
+          "href": "https://www.nodeseek.com/",
+          "description": "Nodeseek is a place for people who love web development, hosting, vps / server and other geek things",
+          "icon": "/assets/favicon_1775316304785.png"
         }
       ],
       "subCategories": []
