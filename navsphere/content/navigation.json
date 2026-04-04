@@ -267,6 +267,14 @@
           "href": "https://haowallpaper.com/",
           "description": "访问 haowallpaper.com",
           "icon": "/assets/favicon_1775319943458.png"
+        },
+        {
+          "id": "item-1775320307126",
+          "enabled": true,
+          "title": "老王导航-个人专属导航页-Navitem",
+          "href": "https://nav.eooce.com/",
+          "description": "个人导航页面，提供常用网站链接和工具集合，让您快速访问常用资源",
+          "icon": "/assets/favicon_1775320303085.png"
         }
       ],
       "subCategories": []
