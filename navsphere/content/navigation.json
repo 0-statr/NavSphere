@@ -22,6 +22,14 @@
           "href": "https://www.huaxia.cyou/#/stage/buysubs",
           "description": "华夏联盟提供独家技术支持",
           "icon": "/assets/favicon_1775315145703.svg"
+        },
+        {
+          "id": "item-1775315186698",
+          "enabled": true,
+          "title": "仪表盘 | 马铃薯",
+          "href": "https://mlshu.com/#/dashboard",
+          "description": "访问 mlshu.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mlshu.com"
         }
       ],
       "subCategories": []
