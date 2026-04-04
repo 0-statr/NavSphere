@@ -57,6 +57,14 @@
           "href": "https://duonaz.eu.cc/",
           "description": "Convert and optimize your subscription links easily",
           "icon": "/assets/favicon_1775315129162.ico"
+        },
+        {
+          "id": "item-1775315427009",
+          "enabled": true,
+          "title": "WebSSH Console",
+          "href": "https://duonaz.zeabur.app/",
+          "description": "最好用的webSSH终端管理工具",
+          "icon": "/assets/favicon_1775315423282.ico"
         }
       ],
       "subCategories": []
