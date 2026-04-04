@@ -73,6 +73,14 @@
           "href": "https://duonaz.zeabur.app/",
           "description": "最好用的webSSH终端管理工具",
           "icon": "/assets/favicon_1775315423282.ico"
+        },
+        {
+          "id": "item-1775315703968",
+          "enabled": true,
+          "title": "高精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平台",
+          "href": "https://ping0.cc/",
+          "description": "",
+          "icon": "/assets/favicon_1775315687738.png"
         }
       ],
       "subCategories": []
