@@ -243,6 +243,14 @@
           "href": "https://matte.ct8.pl/",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=matte.ct8.pl"
+        },
+        {
+          "id": "item-1775319599280",
+          "enabled": true,
+          "title": "IP 信息详情",
+          "href": "https://ip.ssss.nyc.mn/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ip.ssss.nyc.mn"
         }
       ],
       "subCategories": []
