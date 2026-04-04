@@ -107,6 +107,14 @@
           "href": "https://duonaz.us.ci/admin",
           "description": "使用搜索与分类快速定位订阅，开启农历显示可同步查看农历日期",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=duonaz.us.ci"
+        },
+        {
+          "id": "item-1775316542230",
+          "enabled": true,
+          "title": "积分签到",
+          "href": "https://vps8.zz.cd/points/signin",
+          "description": "",
+          "icon": "/assets/favicon_1775316537704.ico"
         }
       ],
       "subCategories": []
