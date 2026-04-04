@@ -30,6 +30,14 @@
           "href": "https://mlshu.com/#/dashboard",
           "description": "访问 mlshu.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=mlshu.com"
+        },
+        {
+          "id": "item-1775315611121",
+          "enabled": true,
+          "title": "Proxysite 免费代理 - 快速在线网络代理 - LumiProxy",
+          "href": "https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/",
+          "description": "访问 www.lumiproxy.com",
+          "icon": "/assets/favicon_1775315605564.png"
         }
       ],
       "subCategories": []
