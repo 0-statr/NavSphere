@@ -33,7 +33,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1775315133102",
+          "enabled": true,
+          "title": "Sublink Worker - 订阅链接转换工具",
+          "href": "https://duonaz.eu.cc/",
+          "description": "Convert and optimize your subscription links easily",
+          "icon": "/assets/favicon_1775315129162.ico"
+        }
+      ],
       "subCategories": []
     },
     {
