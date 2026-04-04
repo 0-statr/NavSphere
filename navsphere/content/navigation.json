@@ -14,6 +14,14 @@
           "href": "https://www.dabai.in/user",
           "description": "Updates and statistics",
           "icon": "/assets/favicon_1775315107571.ico"
+        },
+        {
+          "id": "item-1775315157070",
+          "enabled": true,
+          "title": "购买订阅 - 华夏联盟 Accelerate",
+          "href": "https://www.huaxia.cyou/#/stage/buysubs",
+          "description": "华夏联盟提供独家技术支持",
+          "icon": "/assets/favicon_1775315145703.svg"
         }
       ],
       "subCategories": []
