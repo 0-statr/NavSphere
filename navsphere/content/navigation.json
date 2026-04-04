@@ -6,7 +6,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1775315111018",
+          "enabled": true,
+          "title": "用户中心 — 大白",
+          "href": "https://www.dabai.in/user",
+          "description": "Updates and statistics",
+          "icon": "/assets/favicon_1775315107571.ico"
+        }
+      ],
       "subCategories": []
     },
     {
