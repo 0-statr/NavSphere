@@ -235,7 +235,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1775319109768",
+          "enabled": true,
+          "title": "自动访问系统管理",
+          "href": "https://matte.ct8.pl/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=matte.ct8.pl"
+        }
+      ],
       "subCategories": []
     }
   ]
