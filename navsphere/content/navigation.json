@@ -115,6 +115,14 @@
           "href": "https://vps8.zz.cd/points/signin",
           "description": "",
           "icon": "/assets/favicon_1775316537704.ico"
+        },
+        {
+          "id": "item-1775317335642",
+          "enabled": true,
+          "title": "Koyeb",
+          "href": "https://app.koyeb.com/services",
+          "description": "Koyeb is a developer-friendly serverless platform to deploy apps globally. No-ops, servers, and infrastructure management.",
+          "icon": "/assets/favicon_1775317324100.png"
         }
       ],
       "subCategories": []
