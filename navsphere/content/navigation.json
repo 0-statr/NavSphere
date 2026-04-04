@@ -6,7 +6,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1775314444283_jmlhgawml",
+          "title": "Serv00",
+          "href": "https://serv00.duonaz.eu.org",
+          "description": "访问 serv00.duonaz.eu.org",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=serv00.duonaz.eu.org",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
