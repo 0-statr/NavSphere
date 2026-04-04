@@ -275,6 +275,14 @@
           "href": "https://nav.eooce.com/",
           "description": "个人导航页面，提供常用网站链接和工具集合，让您快速访问常用资源",
           "icon": "/assets/favicon_1775320303085.png"
+        },
+        {
+          "id": "item-1775320905725",
+          "enabled": true,
+          "title": "roundcube/roundcubemail: The Roundcube Webmail suite",
+          "href": "https://github.com/roundcube/roundcubemail",
+          "description": "The Roundcube Webmail suite. Contribute to roundcube/roundcubemail development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1775320901758.png"
         }
       ],
       "subCategories": []
