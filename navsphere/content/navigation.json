@@ -202,6 +202,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1775317895591",
+      "title": "自己搭建的一些好玩的项目",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
