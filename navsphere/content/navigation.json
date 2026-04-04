@@ -1,6 +1,40 @@
 {
   "navigationItems": [
     {
+      "id": "1775315012949",
+      "title": "定时续期",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "item-1775315451323",
+          "enabled": true,
+          "title": "订阅管理系统",
+          "href": "https://duonaz.us.ci/admin",
+          "description": "使用搜索与分类快速定位订阅，开启农历显示可同步查看农历日期",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=duonaz.us.ci"
+        },
+        {
+          "id": "item-1775316542230",
+          "enabled": true,
+          "title": "积分签到",
+          "href": "https://vps8.zz.cd/points/signin",
+          "description": "",
+          "icon": "/assets/favicon_1775316537704.ico"
+        },
+        {
+          "id": "item-1775317335642",
+          "enabled": true,
+          "title": "Koyeb",
+          "href": "https://app.koyeb.com/services",
+          "description": "Koyeb is a developer-friendly serverless platform to deploy apps globally. No-ops, servers, and infrastructure management.",
+          "icon": "/assets/favicon_1775317324100.png"
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1775314984237",
       "title": "免费机场",
       "icon": "FolderKanban",
@@ -97,40 +131,6 @@
           "href": "https://dash.cloudflare.com/eb56aeb15132e7baacb025c05eef183d/home/overview",
           "description": "访问 dash.cloudflare.com",
           "icon": "/assets/favicon_1775317524050.png"
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1775315012949",
-      "title": "定时续期",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "item-1775315451323",
-          "enabled": true,
-          "title": "订阅管理系统",
-          "href": "https://duonaz.us.ci/admin",
-          "description": "使用搜索与分类快速定位订阅，开启农历显示可同步查看农历日期",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=duonaz.us.ci"
-        },
-        {
-          "id": "item-1775316542230",
-          "enabled": true,
-          "title": "积分签到",
-          "href": "https://vps8.zz.cd/points/signin",
-          "description": "",
-          "icon": "/assets/favicon_1775316537704.ico"
-        },
-        {
-          "id": "item-1775317335642",
-          "enabled": true,
-          "title": "Koyeb",
-          "href": "https://app.koyeb.com/services",
-          "description": "Koyeb is a developer-friendly serverless platform to deploy apps globally. No-ops, servers, and infrastructure management.",
-          "icon": "/assets/favicon_1775317324100.png"
         }
       ],
       "subCategories": []
