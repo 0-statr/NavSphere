@@ -106,6 +106,14 @@
           "href": "https://www.nodeloc.com/new",
           "description": "访问 www.nodeloc.com",
           "icon": "/assets/favicon_1775316413534.png"
+        },
+        {
+          "id": "item-1775397796863",
+          "enabled": true,
+          "title": "来说说大家知道的白嫖项目 - 茶馆 奶昔论坛",
+          "href": "https://forum.naixi.net/thread-2593-1-1.html",
+          "description": "访问 forum.naixi.net",
+          "icon": "/assets/favicon_1775397790896.png"
         }
       ],
       "subCategories": []
