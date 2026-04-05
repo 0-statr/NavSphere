@@ -173,6 +173,14 @@
           "href": "https://student.muggle.edu.kg/index.html#inbox",
           "description": "访问 student.muggle.edu.kg",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=student.muggle.edu.kg"
+        },
+        {
+          "id": "item-1775375515481",
+          "enabled": true,
+          "title": "ChatGPT",
+          "href": "https://chatgpt.com/",
+          "description": "访问 chatgpt.com",
+          "icon": "/assets/favicon_1775375510788.png"
         }
       ],
       "subCategories": []
