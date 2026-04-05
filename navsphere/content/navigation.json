@@ -30,6 +30,14 @@
           "href": "https://app.koyeb.com/services",
           "description": "Koyeb is a developer-friendly serverless platform to deploy apps globally. No-ops, servers, and infrastructure management.",
           "icon": "/assets/favicon_1775317324100.png"
+        },
+        {
+          "id": "item-1775364570973",
+          "enabled": true,
+          "title": "以针会友",
+          "href": "https://duonaz.ee.cd/",
+          "description": "访问 duonaz.ee.cd",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=duonaz.ee.cd"
         }
       ],
       "subCategories": []
