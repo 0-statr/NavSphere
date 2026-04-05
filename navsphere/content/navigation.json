@@ -165,6 +165,14 @@
           "href": "https://address-yesheng-de.testsky.workers.dev/",
           "description": "基于google地图生成真实格式的测试地址数据，包含街道、城市、省州、邮编、电话等字段，适用于全球多个国家，开发测试必备。",
           "icon": "/assets/favicon_1775363776655.png"
+        },
+        {
+          "id": "item-1775370920439",
+          "enabled": true,
+          "title": "控制台 - 麻瓜专修学院邮箱",
+          "href": "https://student.muggle.edu.kg/index.html#inbox",
+          "description": "访问 student.muggle.edu.kg",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=student.muggle.edu.kg"
         }
       ],
       "subCategories": []
