@@ -307,6 +307,14 @@
           "href": "https://github.com/roundcube/roundcubemail",
           "description": "The Roundcube Webmail suite. Contribute to roundcube/roundcubemail development by creating an account on GitHub.",
           "icon": "/assets/favicon_1775320901758.png"
+        },
+        {
+          "id": "item-1775389723616",
+          "enabled": true,
+          "title": "⭐[Dooongの教程] 通过CloudFlare+SaaS回源优选IP使国内用户高速访问网站",
+          "href": "https://www.nodeseek.com/post-42661-1",
+          "description": "博客归档相关续篇⭐[教程]Cloudflare+SaaS续篇：自建反代Cloudflare边缘节点本片文章较长,建议前往博客阅读,有目录功能方便快捷跳转前言🚀由于不可抗力因素,使用了Cloudflare开启小黄云在国内的访问速度十分堪忧,间歇性抽风在之前我们可以使用cloudflarepartner来使访问回源到",
+          "icon": "/assets/favicon_1775389718071.png"
         }
       ],
       "subCategories": []
