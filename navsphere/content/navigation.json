@@ -181,6 +181,14 @@
           "href": "https://chatgpt.com/",
           "description": "访问 chatgpt.com",
           "icon": "/assets/favicon_1775375510788.png"
+        },
+        {
+          "id": "item-1775394424931",
+          "enabled": true,
+          "title": "Introduction - DeepL Documentation",
+          "href": "https://developers.deepl.com/docs/getting-started/intro",
+          "description": "Welcome to the developer home of DeepL API.",
+          "icon": "/assets/favicon_1775394418167.png"
         }
       ],
       "subCategories": []
