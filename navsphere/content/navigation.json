@@ -205,6 +205,14 @@
           "href": "https://developers.deepl.com/docs/getting-started/intro",
           "description": "Welcome to the developer home of DeepL API.",
           "icon": "/assets/favicon_1775394418167.png"
+        },
+        {
+          "id": "item-1775469707803",
+          "enabled": true,
+          "title": "cdkey",
+          "href": "https://dashboard.1024proxy.com/cdkey/index",
+          "description": "家宽ip",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dashboard.1024proxy.com"
         }
       ],
       "subCategories": []
