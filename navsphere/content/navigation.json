@@ -204,6 +204,14 @@
           "href": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox",
           "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
           "icon": "/assets/favicon_1775490041341.png"
+        },
+        {
+          "id": "item-1775490116026",
+          "enabled": true,
+          "title": "帐户主页 | Cloudflare",
+          "href": "https://dash.cloudflare.com/eb56aeb15132e7baacb025c05eef183d/home/overview",
+          "description": "访问 dash.cloudflare.com",
+          "icon": "/assets/favicon_1775490105035.png"
         }
       ],
       "subCategories": []
