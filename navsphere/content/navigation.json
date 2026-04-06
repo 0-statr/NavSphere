@@ -349,7 +349,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1775447424264",
+          "enabled": true,
+          "title": "数据 - Google 云端硬盘",
+          "href": "https://drive.google.com/drive/folders/109n9nr2N2kV-2L1zR0GQJeA2cVg2dR_L",
+          "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
+          "icon": "/assets/favicon_1775447419276.png"
+        }
+      ],
       "subCategories": []
     }
   ]
