@@ -196,6 +196,14 @@
           "href": "https://dashboard.1024proxy.com/cdkey/index",
           "description": "家宽ip",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dashboard.1024proxy.com"
+        },
+        {
+          "id": "item-1775490057346",
+          "enabled": true,
+          "title": "收件箱",
+          "href": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox",
+          "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
+          "icon": "/assets/favicon_1775490041341.png"
         }
       ],
       "subCategories": []
