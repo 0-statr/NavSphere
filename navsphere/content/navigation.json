@@ -76,6 +76,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "item-1775464795657",
+          "enabled": true,
+          "title": "LINUX DO - 新的理想型社区",
+          "href": "https://linux.do/",
+          "description": "访问 linux.do",
+          "icon": "/assets/favicon_1775464789266.png"
+        },
+        {
           "id": "item-1775316311243",
           "enabled": true,
           "title": "NodeSeek",
