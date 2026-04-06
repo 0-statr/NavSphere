@@ -119,15 +119,6 @@
       "subCategories": []
     },
     {
-      "id": "1775315069346",
-      "title": "自建节点",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1775314998249",
       "title": "常用工具",
       "icon": "FolderKanban",
