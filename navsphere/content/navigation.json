@@ -188,6 +188,14 @@
           "href": "https://dashboard.1024proxy.com/cdkey/index",
           "description": "家宽ip",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dashboard.1024proxy.com"
+        },
+        {
+          "id": "item-1775493898219",
+          "enabled": true,
+          "title": "收件箱",
+          "href": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox",
+          "description": "访问 mail.google.com",
+          "icon": "/assets/favicon_1775493889791.png"
         }
       ],
       "subCategories": []
