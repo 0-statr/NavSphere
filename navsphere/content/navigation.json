@@ -114,6 +114,14 @@
           "href": "https://forum.naixi.net/thread-2593-1-1.html",
           "description": "访问 forum.naixi.net",
           "icon": "/assets/favicon_1775397790896.png"
+        },
+        {
+          "id": "item-1775464795657",
+          "enabled": true,
+          "title": "LINUX DO - 新的理想型社区",
+          "href": "https://linux.do/",
+          "description": "访问 linux.do",
+          "icon": "/assets/favicon_1775464789266.png"
         }
       ],
       "subCategories": []
