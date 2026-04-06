@@ -364,6 +364,14 @@
           "href": "https://drive.google.com/drive/folders/109n9nr2N2kV-2L1zR0GQJeA2cVg2dR_L",
           "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
           "icon": "/assets/favicon_1775447419276.png"
+        },
+        {
+          "id": "item-1775487631622",
+          "enabled": true,
+          "title": "My files - OneDrive",
+          "href": "https://savef-my.sharepoint.com/my",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=savef-my.sharepoint.com"
         }
       ],
       "subCategories": []
