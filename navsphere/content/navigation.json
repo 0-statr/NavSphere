@@ -342,6 +342,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1775447386024",
+      "title": "云盘",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
