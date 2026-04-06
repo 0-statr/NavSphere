@@ -135,6 +135,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "item-1775447464169",
+          "enabled": true,
+          "title": "收件箱 - za9799153@gmail.com - Gmail",
+          "href": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox",
+          "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
+          "icon": "/assets/favicon_1775447454404.png"
+        },
+        {
           "id": "item-1775315133102",
           "enabled": true,
           "title": "Sublink Worker - 订阅链接转换工具",
@@ -197,14 +205,6 @@
           "href": "https://developers.deepl.com/docs/getting-started/intro",
           "description": "Welcome to the developer home of DeepL API.",
           "icon": "/assets/favicon_1775394418167.png"
-        },
-        {
-          "id": "item-1775447464169",
-          "enabled": true,
-          "title": "收件箱 - za9799153@gmail.com - Gmail",
-          "href": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox",
-          "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
-          "icon": "/assets/favicon_1775447454404.png"
         }
       ],
       "subCategories": []
