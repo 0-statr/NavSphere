@@ -362,6 +362,14 @@
           "href": "https://www.nodeseek.com/post-678926-1",
           "description": "先使用授权连接，进去之后选择微软登录，注册一个hotmail邮箱，点击登录，如果跳手机不用管，直接关闭再使用同一链接，继续同样的hotmail登录，即可直接登录刚刚测试有效，不保证长期，看到别人发的测试了一下真可以。",
           "icon": "/assets/favicon_1775580314708.png"
+        },
+        {
+          "id": "item-1775581887278",
+          "enabled": true,
+          "title": "第三方tg客户端Nekogram私自上传用户手机号 - 互联网服务 / 杂谈 - NodeLoc",
+          "href": "https://www.nodeloc.com/t/topic/81679/2",
+          "description": "用了半年的第三方tg客户端Nekogram前几天被爆出来偷偷上传用户手机号 \n  \n今天才知道它还有前科，谷歌商店和github release都有问题，源代码构建的没问题，目前改用Nagram X了，以后有条件的话还是建议去github仓&amp;hellip;",
+          "icon": "/assets/favicon_1775581880551.png"
         }
       ],
       "subCategories": []
