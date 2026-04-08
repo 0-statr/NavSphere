@@ -212,6 +212,14 @@
           "href": "https://tinkmail.me/home/inbox",
           "description": "Sign in to your TinkMail account to access your secure email inbox, contacts, and settings. Available for both personal and business accounts.",
           "icon": "/assets/favicon_1775664216077.png"
+        },
+        {
+          "id": "item-1775668270108",
+          "enabled": true,
+          "title": "Wit.ai",
+          "href": "https://wit.ai/apps/958060573275937/settings",
+          "description": "wudi",
+          "icon": "/assets/favicon_1775668251128.ico"
         }
       ],
       "subCategories": []
