@@ -204,6 +204,14 @@
           "href": "https://dash.cloudflare.com/eb56aeb15132e7baacb025c05eef183d/home/overview",
           "description": "访问 dash.cloudflare.com",
           "icon": "/assets/favicon_1775494103278.png"
+        },
+        {
+          "id": "item-1775664219549",
+          "enabled": true,
+          "title": "TinkMail - Your Secure & Free Email Service",
+          "href": "https://tinkmail.me/home/inbox",
+          "description": "Sign in to your TinkMail account to access your secure email inbox, contacts, and settings. Available for both personal and business accounts.",
+          "icon": "/assets/favicon_1775664216077.png"
         }
       ],
       "subCategories": []
