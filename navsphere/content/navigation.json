@@ -422,7 +422,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1775671327133",
+          "enabled": true,
+          "title": "控制面板 - Nexusify 控制台",
+          "href": "https://dash.nexusify.co/",
+          "description": "访问 dash.nexusify.co",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.nexusify.co"
+        }
+      ],
       "subCategories": []
     }
   ]
