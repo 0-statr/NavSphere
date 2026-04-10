@@ -38,6 +38,14 @@
           "href": "https://duonaz.ee.cd/",
           "description": "访问 duonaz.ee.cd",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=duonaz.ee.cd"
+        },
+        {
+          "id": "item-1775828556730",
+          "enabled": true,
+          "title": "订阅管理系统",
+          "href": "https://subscription-manager.testsky.workers.dev/admin",
+          "description": "使用搜索与分类快速定位订阅，开启农历显示可同步查看农历日期",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=subscription-manager.testsky.workers.dev"
         }
       ],
       "subCategories": []
