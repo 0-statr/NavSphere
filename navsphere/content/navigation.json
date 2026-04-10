@@ -422,6 +422,14 @@
           "href": "https://dash.nexusify.co/",
           "description": "访问 dash.nexusify.co",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.nexusify.co"
+        },
+        {
+          "id": "item-1775838138523",
+          "enabled": true,
+          "title": "分享一个teambug号的key给大家吧 - 福利羊毛 / 福利羊毛, Lv1 - LINUX DO",
+          "href": "https://linux.do/t/topic/1939689",
+          "description": "访问 linux.do",
+          "icon": "/assets/favicon_1775838133724.png"
         }
       ],
       "subCategories": []
