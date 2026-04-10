@@ -372,14 +372,6 @@
           "icon": "/assets/favicon_1775580314708.png"
         },
         {
-          "id": "item-1775581887278",
-          "enabled": true,
-          "title": "第三方tg客户端Nekogram私自上传用户手机号 - 互联网服务 / 杂谈 - NodeLoc",
-          "href": "https://www.nodeloc.com/t/topic/81679/2",
-          "description": "用了半年的第三方tg客户端Nekogram前几天被爆出来偷偷上传用户手机号 \n  \n今天才知道它还有前科，谷歌商店和github release都有问题，源代码构建的没问题，目前改用Nagram X了，以后有条件的话还是建议去github仓&amp;hellip;",
-          "icon": "/assets/favicon_1775581880551.png"
-        },
-        {
           "id": "item-1775828901611",
           "enabled": true,
           "title": "分享BUG号（用了没变化，应该是）",
