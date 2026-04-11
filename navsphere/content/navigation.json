@@ -430,6 +430,14 @@
           "href": "https://linux.do/t/topic/1939689",
           "description": "访问 linux.do",
           "icon": "/assets/favicon_1775838133724.png"
+        },
+        {
+          "id": "item-1775889675719",
+          "enabled": true,
+          "title": "搞清原生ISP和双ISP，少踩50%的IP代理坑！",
+          "href": "https://www.partnershare.cn/information/ipfly-quan-qiu-dai-li/4846",
+          "description": "双ISP（Dual ISP）一般是指：\n一个代理服务通过 两个不同的ISP（可能一个是本地小运营商、一个是云服务提供商）来组合其网络出口，既达到一定的稳定性，也尝试绕过部分风控识别。",
+          "icon": "/assets/favicon_1775889667163.ico"
         }
       ],
       "subCategories": []
