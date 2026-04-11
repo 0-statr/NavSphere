@@ -212,14 +212,6 @@
           "href": "https://wit.ai/apps/958060573275937/settings",
           "description": "wudi",
           "icon": "/assets/favicon_1775668251128.ico"
-        },
-        {
-          "id": "item-1775895488232",
-          "enabled": true,
-          "title": "Repositories - CodeSandbox",
-          "href": "https://codesandbox.io/dashboard/repositories?workspace=ws_BA1zmTDoopUpXfjGWLy9WJ",
-          "description": "CodeSandbox is an online editor tailored for web applications.",
-          "icon": "/assets/favicon_1775895474976.png"
         }
       ],
       "subCategories": []
@@ -360,22 +352,6 @@
           "href": "https://www.nodeseek.com/post-682943-1",
           "description": "地址sk-cff225bc59a4a4af1c2d5991a8f51180c4c1c2d95bdf54dc30ac232984d82884修改：%userprofile%.codex/config.tomlmodel_provider=&quot;OpenAI&quot;model=&quot;gpt-5.4&qu",
           "icon": "/assets/favicon_1775828895963.png"
-        },
-        {
-          "id": "item-1775901510887",
-          "enabled": true,
-          "title": "Vercel",
-          "href": "https://vercel.com/0-statrs-projects",
-          "description": "",
-          "icon": "/assets/favicon_1775901505027.png"
-        },
-        {
-          "id": "item-1775901545545",
-          "enabled": true,
-          "title": "Render Dashboard",
-          "href": "https://dashboard.render.com/",
-          "description": "Render is a unified cloud to build and run all your apps and websites with free SSL, global CDN, private networks and automatic deploys from Git.",
-          "icon": "/assets/favicon_1775901538371.png"
         }
       ],
       "subCategories": []
