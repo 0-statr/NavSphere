@@ -438,6 +438,14 @@
           "href": "https://www.partnershare.cn/information/ipfly-quan-qiu-dai-li/4846",
           "description": "双ISP（Dual ISP）一般是指：\n一个代理服务通过 两个不同的ISP（可能一个是本地小运营商、一个是云服务提供商）来组合其网络出口，既达到一定的稳定性，也尝试绕过部分风控识别。",
           "icon": "/assets/favicon_1775889667163.ico"
+        },
+        {
+          "id": "item-1775890551570",
+          "enabled": true,
+          "title": "家宽IP、原生IP、广播IP的基础区别",
+          "href": "https://www.nodeseek.com/post-376284-1",
+          "description": "IP类型主要分三类：家宽、原生、广播。其核心区别：其AS的持有人的角色身份和广播的线路。家宽IP和原生IP，是归属地和持有人都是一致，即为归属地和广播地一致。他俩主要区别在于，家宽需要由本地的电信运营商的AS来作为广播的主体，且需要在国际带宽线路广播，属性才为家宽。广播IP则是A地到B地广播，IP广播生效需要时间（",
+          "icon": "/assets/favicon_1775890546382.png"
         }
       ],
       "subCategories": []
