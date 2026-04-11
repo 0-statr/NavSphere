@@ -212,14 +212,6 @@
           "href": "https://wit.ai/apps/958060573275937/settings",
           "description": "wudi",
           "icon": "/assets/favicon_1775668251128.ico"
-        },
-        {
-          "id": "item-1775894814641",
-          "enabled": true,
-          "title": "Dashboard - Nexusify Console",
-          "href": "https://dash.nexusify.co/",
-          "description": "访问 dash.nexusify.co",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.nexusify.co"
         }
       ],
       "subCategories": []
@@ -397,14 +389,6 @@
       "description": "",
       "enabled": true,
       "items": [
-        {
-          "id": "item-1775671327133",
-          "enabled": true,
-          "title": "控制面板 - Nexusify 控制台",
-          "href": "https://dash.nexusify.co/",
-          "description": "访问 dash.nexusify.co",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.nexusify.co"
-        },
         {
           "id": "item-1775838138523",
           "enabled": true,
