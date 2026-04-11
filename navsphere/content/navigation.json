@@ -220,22 +220,6 @@
           "href": "https://codesandbox.io/dashboard/repositories?workspace=ws_BA1zmTDoopUpXfjGWLy9WJ",
           "description": "CodeSandbox is an online editor tailored for web applications.",
           "icon": "/assets/favicon_1775895474976.png"
-        },
-        {
-          "id": "item-1775896229784",
-          "enabled": true,
-          "title": "Render Dashboard",
-          "href": "https://dashboard.render.com/",
-          "description": "Render is a unified cloud to build and run all your apps and websites with free SSL, global CDN, private networks and automatic deploys from Git.",
-          "icon": "/assets/favicon_1775896226942.png"
-        },
-        {
-          "id": "item-1775896252443",
-          "enabled": true,
-          "title": "Vercel",
-          "href": "https://vercel.com/0-statrs-projects?projectDeleted=nav",
-          "description": "",
-          "icon": "/assets/favicon_1775896249506.png"
         }
       ],
       "subCategories": []
@@ -288,24 +272,7 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "item-1775318894108",
-          "enabled": true,
-          "title": "Render Dashboard",
-          "href": "https://dashboard.render.com/",
-          "description": "Render is a unified cloud to build and run all your apps and websites with free SSL, global CDN, private networks and automatic deploys from Git.",
-          "icon": "/assets/favicon_1775318886714.png"
-        },
-        {
-          "id": "item-1775318909921",
-          "enabled": true,
-          "title": "Vercel",
-          "href": "https://vercel.com/0-statrs-projects?projectDeleted=nav",
-          "description": "",
-          "icon": "/assets/favicon_1775318904524.png"
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
