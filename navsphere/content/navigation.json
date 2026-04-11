@@ -212,6 +212,14 @@
           "href": "https://wit.ai/apps/958060573275937/settings",
           "description": "wudi",
           "icon": "/assets/favicon_1775668251128.ico"
+        },
+        {
+          "id": "item-1775894907665",
+          "enabled": true,
+          "title": "(已失效，请移步新帖)分享一个teambug号的key给大家吧 - 福利羊毛 / 福利羊毛, Lv1 - LINUX DO",
+          "href": "https://linux.do/t/topic/1939689",
+          "description": "访问 linux.do",
+          "icon": "/assets/favicon_1775894904290.png"
         }
       ],
       "subCategories": []
