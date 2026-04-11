@@ -212,6 +212,14 @@
           "href": "https://wit.ai/apps/958060573275937/settings",
           "description": "wudi",
           "icon": "/assets/favicon_1775668251128.ico"
+        },
+        {
+          "id": "item-1775895488232",
+          "enabled": true,
+          "title": "Repositories - CodeSandbox",
+          "href": "https://codesandbox.io/dashboard/repositories?workspace=ws_BA1zmTDoopUpXfjGWLy9WJ",
+          "description": "CodeSandbox is an online editor tailored for web applications.",
+          "icon": "/assets/favicon_1775895474976.png"
         }
       ],
       "subCategories": []
