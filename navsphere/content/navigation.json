@@ -220,6 +220,14 @@
           "href": "https://codesandbox.io/dashboard/repositories?workspace=ws_BA1zmTDoopUpXfjGWLy9WJ",
           "description": "CodeSandbox is an online editor tailored for web applications.",
           "icon": "/assets/favicon_1775895474976.png"
+        },
+        {
+          "id": "item-1775896229784",
+          "enabled": true,
+          "title": "Render Dashboard",
+          "href": "https://dashboard.render.com/",
+          "description": "Render is a unified cloud to build and run all your apps and websites with free SSL, global CDN, private networks and automatic deploys from Git.",
+          "icon": "/assets/favicon_1775896226942.png"
         }
       ],
       "subCategories": []
