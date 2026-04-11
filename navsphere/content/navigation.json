@@ -212,6 +212,14 @@
           "href": "https://wit.ai/apps/958060573275937/settings",
           "description": "wudi",
           "icon": "/assets/favicon_1775668251128.ico"
+        },
+        {
+          "id": "item-1775894814641",
+          "enabled": true,
+          "title": "Dashboard - Nexusify Console",
+          "href": "https://dash.nexusify.co/",
+          "description": "访问 dash.nexusify.co",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.nexusify.co"
         }
       ],
       "subCategories": []
