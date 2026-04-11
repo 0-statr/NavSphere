@@ -352,6 +352,14 @@
           "href": "https://www.nodeseek.com/post-682943-1",
           "description": "地址sk-cff225bc59a4a4af1c2d5991a8f51180c4c1c2d95bdf54dc30ac232984d82884修改：%userprofile%.codex/config.tomlmodel_provider=&quot;OpenAI&quot;model=&quot;gpt-5.4&qu",
           "icon": "/assets/favicon_1775828895963.png"
+        },
+        {
+          "id": "item-1775901583589",
+          "enabled": true,
+          "title": "Repositories - CodeSandbox",
+          "href": "https://codesandbox.io/dashboard/repositories?workspace=ws_BA1zmTDoopUpXfjGWLy9WJ",
+          "description": "CodeSandbox is an online editor tailored for web applications.",
+          "icon": "/assets/favicon_1775901579841.png"
         }
       ],
       "subCategories": []
