@@ -38,6 +38,14 @@
           "href": "https://subscription-manager.testsky.workers.dev/admin",
           "description": "使用搜索与分类快速定位订阅，开启农历显示可同步查看农历日期",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=subscription-manager.testsky.workers.dev"
+        },
+        {
+          "id": "item-1776014042297",
+          "enabled": true,
+          "title": "Komari",
+          "href": "https://eahvbfsrwlap.ap-southeast-1.clawcloudrun.com/",
+          "description": "A simple server monitor tool.",
+          "icon": "https://eahvbfsrwlap.ap-southeast-1.clawcloudrun.com/favicon.ico"
         }
       ],
       "subCategories": []
