@@ -288,14 +288,6 @@
           "href": "https://vercel.com/0-statrs-projects",
           "description": "",
           "icon": "/assets/favicon_1775901685135.png"
-        },
-        {
-          "id": "item-1775967944629",
-          "enabled": true,
-          "title": "Leafaas",
-          "href": "https://www.leafaas.com/lite",
-          "description": "Leafaas - Cloud Native Application Deployment Platform",
-          "icon": "/assets/favicon_1775967941980.svg"
         }
       ],
       "subCategories": []
