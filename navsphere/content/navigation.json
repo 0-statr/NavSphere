@@ -242,30 +242,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "item-1775319109768",
-          "enabled": true,
-          "title": "自动访问系统管理",
-          "href": "https://matte.ct8.pl/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=matte.ct8.pl"
-        },
-        {
-          "id": "item-1775319599280",
-          "enabled": true,
-          "title": "IP 信息详情",
-          "href": "https://ip.ssss.nyc.mn/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ip.ssss.nyc.mn"
-        },
-        {
-          "id": "item-1775319731414",
-          "enabled": true,
-          "title": "使用Vercel部署个人网站详细教程，只看这一篇就够了! - 知乎",
-          "href": "https://zhuanlan.zhihu.com/p/1976588840996210313",
-          "description": "访问 zhuanlan.zhihu.com",
-          "icon": "/assets/favicon_1775319727821.png"
-        },
-        {
           "id": "item-1775319947088",
           "enabled": true,
           "title": "免费4K高清壁纸-电脑背景图片-Mac壁纸网站「哲风壁纸」",
@@ -280,14 +256,6 @@
           "href": "https://nav.eooce.com/",
           "description": "个人导航页面，提供常用网站链接和工具集合，让您快速访问常用资源",
           "icon": "/assets/favicon_1775320303085.png"
-        },
-        {
-          "id": "item-1775320905725",
-          "enabled": true,
-          "title": "roundcube/roundcubemail: The Roundcube Webmail suite",
-          "href": "https://github.com/roundcube/roundcubemail",
-          "description": "The Roundcube Webmail suite. Contribute to roundcube/roundcubemail development by creating an account on GitHub.",
-          "icon": "/assets/favicon_1775320901758.png"
         },
         {
           "id": "item-1775389723616",
