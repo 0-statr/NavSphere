@@ -384,6 +384,14 @@
           "href": "https://www.leafaas.com/lite",
           "description": "Leafaas - Cloud Native Application Deployment Platform",
           "icon": "/assets/favicon_1775967941980.svg"
+        },
+        {
+          "id": "item-1775970642191",
+          "enabled": true,
+          "title": "在CodeSandbox部署xray节点 - XTrojan黑科技",
+          "href": "https://xtrojan.org/codesandbox-xray/",
+          "description": "在之前的容器云教程中，我介绍了Replit。但是由于部分使用者的滥用，Replit近期对流量限制有些严重。",
+          "icon": "/assets/favicon_1775970640940.png"
         }
       ],
       "subCategories": []
