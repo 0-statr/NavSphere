@@ -24,14 +24,6 @@
           "icon": "/assets/favicon_1775317324100.png"
         },
         {
-          "id": "item-1775364570973",
-          "enabled": true,
-          "title": "以针会友",
-          "href": "https://duonaz.ee.cd/",
-          "description": "访问 duonaz.ee.cd",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=duonaz.ee.cd"
-        },
-        {
           "id": "item-1775828556730",
           "enabled": true,
           "title": "订阅管理系统",
