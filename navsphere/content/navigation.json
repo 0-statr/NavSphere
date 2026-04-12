@@ -392,6 +392,14 @@
           "href": "https://xtrojan.org/codesandbox-xray/",
           "description": "在之前的容器云教程中，我介绍了Replit。但是由于部分使用者的滥用，Replit近期对流量限制有些严重。",
           "icon": "/assets/favicon_1775970640940.png"
+        },
+        {
+          "id": "item-1775975675461",
+          "enabled": true,
+          "title": "Manage duonaz.rf.gd on if0_41641555 - InfinityFree",
+          "href": "https://dash.infinityfree.com/accounts/if0_41641555/domains/duonaz.rf.gd",
+          "description": "访问 dash.infinityfree.com",
+          "icon": "/assets/favicon_1775975673869.png"
         }
       ],
       "subCategories": []
