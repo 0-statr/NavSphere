@@ -246,14 +246,6 @@
           "href": "https://mlshu.com/#/dashboard",
           "description": "访问 mlshu.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=mlshu.com"
-        },
-        {
-          "id": "item-1775315923288",
-          "enabled": true,
-          "title": "用户中心 - 自由狗狗_免费v2ray节点",
-          "href": "https://www.freedogdog.com/user",
-          "description": "访问 www.freedogdog.com",
-          "icon": "/assets/favicon_1775315916428.png"
         }
       ],
       "subCategories": []
