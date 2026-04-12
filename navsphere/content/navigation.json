@@ -320,14 +320,6 @@
           "href": "https://dash.infinityfree.com/accounts/if0_41641555/domains/duonaz.rf.gd",
           "description": "访问 dash.infinityfree.com",
           "icon": "/assets/favicon_1775975673869.png"
-        },
-        {
-          "id": "item-1775989947738",
-          "enabled": true,
-          "title": "Proxysite 免费代理 - 快速在线网络代理 - LumiProxy",
-          "href": "https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/",
-          "description": "通过 LumiProxy Proxysite 的快速在线代理服务快速访问网站。使用我们的免费代理享受安全高效的浏览。",
-          "icon": "/assets/favicon_1775989945849.ico"
         }
       ],
       "subCategories": []
