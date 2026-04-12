@@ -280,14 +280,6 @@
           "href": "https://vercel.com/0-statrs-projects",
           "description": "",
           "icon": "/assets/favicon_1775901685135.png"
-        },
-        {
-          "id": "item-1776021415847",
-          "enabled": true,
-          "title": "EasyTier - 简单、安全、去中心化的异地组网方案",
-          "href": "https://easytier.cn/",
-          "description": "访问 easytier.cn",
-          "icon": "/assets/favicon_1776021414870.png"
         }
       ],
       "subCategories": []
