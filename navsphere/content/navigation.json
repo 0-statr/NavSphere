@@ -56,6 +56,14 @@
           "href": "https://web.telegram.org/a/#777000",
           "description": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
           "icon": "/assets/favicon_1775316149907.png"
+        },
+        {
+          "id": "item-1776069608311",
+          "enabled": true,
+          "title": "白嫖笔记 - Google 文档",
+          "href": "https://docs.google.com/document/d/1Xv-vkTAUWUdTKSrQfSWsFZFvtCIq3RarVYRN3-webdI/edit?tab=t.0",
+          "description": "白嫖笔记",
+          "icon": "/assets/favicon_1776069594159.png"
         }
       ],
       "subCategories": []
