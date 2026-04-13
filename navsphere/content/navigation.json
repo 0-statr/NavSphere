@@ -204,14 +204,6 @@
           "href": "https://dash.cloudflare.com/eb56aeb15132e7baacb025c05eef183d/home/overview",
           "description": "访问 dash.cloudflare.com",
           "icon": "/assets/favicon_1775494103278.png"
-        },
-        {
-          "id": "item-1775668270108",
-          "enabled": true,
-          "title": "Wit.ai",
-          "href": "https://wit.ai/apps/958060573275937/settings",
-          "description": "wudi",
-          "icon": "/assets/favicon_1775668251128.ico"
         }
       ],
       "subCategories": []
