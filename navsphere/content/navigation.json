@@ -258,14 +258,6 @@
           "icon": "/assets/favicon_1775495521077.png"
         },
         {
-          "id": "item-1775580321828",
-          "enabled": true,
-          "title": "gpt 手工注册成功",
-          "href": "https://www.nodeseek.com/post-678926-1",
-          "description": "先使用授权连接，进去之后选择微软登录，注册一个hotmail邮箱，点击登录，如果跳手机不用管，直接关闭再使用同一链接，继续同样的hotmail登录，即可直接登录刚刚测试有效，不保证长期，看到别人发的测试了一下真可以。",
-          "icon": "/assets/favicon_1775580314708.png"
-        },
-        {
           "id": "item-1775901662246",
           "enabled": true,
           "title": "Render Dashboard",
