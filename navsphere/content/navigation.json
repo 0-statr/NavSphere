@@ -38,6 +38,14 @@
           "href": "https://eahvbfsrwlap.ap-southeast-1.clawcloudrun.com/",
           "description": "A simple server monitor tool.",
           "icon": "https://eahvbfsrwlap.ap-southeast-1.clawcloudrun.com/favicon.ico"
+        },
+        {
+          "id": "item-1776043222923",
+          "enabled": true,
+          "title": "Komari",
+          "href": "https://duonaz.ee.cd/",
+          "description": "A simple server monitor tool.",
+          "icon": "/assets/favicon_1776043221843.ico"
         }
       ],
       "subCategories": []
