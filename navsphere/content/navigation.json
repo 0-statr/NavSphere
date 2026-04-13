@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "item-1775316542230",
-          "enabled": true,
-          "title": "积分签到",
-          "href": "https://vps8.zz.cd/points/signin",
-          "description": "",
-          "icon": "/assets/favicon_1775316537704.ico"
-        },
-        {
           "id": "item-1775317335642",
           "enabled": true,
           "title": "Koyeb",
