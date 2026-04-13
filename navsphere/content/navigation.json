@@ -180,6 +180,14 @@
           "href": "https://dash.cloudflare.com/eb56aeb15132e7baacb025c05eef183d/home/overview",
           "description": "访问 dash.cloudflare.com",
           "icon": "/assets/favicon_1775494103278.png"
+        },
+        {
+          "id": "item-1776069548961",
+          "enabled": true,
+          "title": "密码 / UUID 生成器",
+          "href": "https://genpass-uuid.testsky.workers.dev/",
+          "description": "🔒 本工具不会收集或上传任何用户数据，所有生成记录仅保存在您的浏览器 localStorage 中。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=genpass-uuid.testsky.workers.dev"
         }
       ],
       "subCategories": []
