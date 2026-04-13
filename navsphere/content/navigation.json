@@ -174,14 +174,6 @@
           "icon": "/assets/favicon_1775375510788.png"
         },
         {
-          "id": "item-1775469707803",
-          "enabled": true,
-          "title": "cdkey",
-          "href": "https://dashboard.1024proxy.com/cdkey/index",
-          "description": "家宽ip",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dashboard.1024proxy.com"
-        },
-        {
           "id": "item-1775493898219",
           "enabled": true,
           "title": "收件箱",
