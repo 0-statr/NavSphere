@@ -32,14 +32,6 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=subscription-manager.testsky.workers.dev"
         },
         {
-          "id": "item-1776014042297",
-          "enabled": true,
-          "title": "Komari",
-          "href": "https://eahvbfsrwlap.ap-southeast-1.clawcloudrun.com/",
-          "description": "A simple server monitor tool.",
-          "icon": "https://eahvbfsrwlap.ap-southeast-1.clawcloudrun.com/favicon.ico"
-        },
-        {
           "id": "item-1776043222923",
           "enabled": true,
           "title": "Komari",
