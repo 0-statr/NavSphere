@@ -234,22 +234,6 @@
           "icon": "/assets/favicon_1775319943458.png"
         },
         {
-          "id": "item-1775901662246",
-          "enabled": true,
-          "title": "Render Dashboard",
-          "href": "https://dashboard.render.com/",
-          "description": "Render is a unified cloud to build and run all your apps and websites with free SSL, global CDN, private networks and automatic deploys from Git.",
-          "icon": "/assets/favicon_1775901657306.png"
-        },
-        {
-          "id": "item-1775901688511",
-          "enabled": true,
-          "title": "Vercel",
-          "href": "https://vercel.com/0-statrs-projects",
-          "description": "",
-          "icon": "/assets/favicon_1775901685135.png"
-        },
-        {
           "id": "item-1776069656913",
           "enabled": true,
           "title": "OpenClaw VPS Hosting Free: One - Click AI Assistant Setup",
