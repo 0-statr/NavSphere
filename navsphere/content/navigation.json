@@ -248,6 +248,14 @@
           "href": "https://vercel.com/0-statrs-projects",
           "description": "",
           "icon": "/assets/favicon_1775901685135.png"
+        },
+        {
+          "id": "item-1776069656913",
+          "enabled": true,
+          "title": "OpenClaw VPS Hosting Free: One - Click AI Assistant Setup",
+          "href": "https://www.ampere.sh/dashboard/terminal",
+          "description": "Deploy OpenClaw on a free VPS in one click. No SSH, no Docker, no server setup. Launch your AI assistant in 60 seconds with Ampere.sh.",
+          "icon": "/assets/favicon_1776069648810.ico"
         }
       ],
       "subCategories": []
