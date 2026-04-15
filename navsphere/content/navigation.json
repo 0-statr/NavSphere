@@ -248,6 +248,14 @@
           "href": "https://www.ampere.sh/dashboard/terminal",
           "description": "Deploy OpenClaw on a free VPS in one click. No SSH, no Docker, no server setup. Launch your AI assistant in 60 seconds with Ampere.sh.",
           "icon": "/assets/favicon_1776069648810.ico"
+        },
+        {
+          "id": "item-1776266358193",
+          "enabled": true,
+          "title": "JavaScript 混淆加密工具",
+          "href": "https://go.sssc.nyc.mn/js-obfuscator",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=go.sssc.nyc.mn"
         }
       ],
       "subCategories": []
