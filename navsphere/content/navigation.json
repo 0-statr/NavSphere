@@ -196,14 +196,6 @@
           "href": "https://genpass-uuid.testsky.workers.dev/",
           "description": "🔒 本工具不会收集或上传任何用户数据，所有生成记录仅保存在您的浏览器 localStorage 中。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=genpass-uuid.testsky.workers.dev"
-        },
-        {
-          "id": "item-1776484920910",
-          "enabled": true,
-          "title": "cf节点",
-          "href": "http://demo.duonaz.dpdns.org/193a7b9f-cbb0-4958-9a6b-fa32b97d485a",
-          "description": "甬哥博客地址：https://ygkkk.blogspot.com甬哥YouTube频道：https://www.youtube.com/@ygkkk甬哥TG电报群组：https://t.me/ygkkktg甬哥TG电报频道：https://t.me/ygkkktgpdProxyIP使用nat64自动生成，无需设置",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=demo.duonaz.dpdns.org"
         }
       ],
       "subCategories": []
@@ -264,14 +256,6 @@
           "href": "https://go.sssc.nyc.mn/js-obfuscator",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=go.sssc.nyc.mn"
-        },
-        {
-          "id": "item-1776484785946",
-          "enabled": true,
-          "title": "Cloudflare-vless-trojan/Vless_workers_pages at main · yonggekkk/Cloudflare-vless-trojan",
-          "href": "https://github.com/yonggekkk/Cloudflare-vless-trojan/tree/main/Vless_workers_pages",
-          "description": "CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 - Cloudflare-vless-trojan/Vless_workers_pages at main · yonggekkk/Cloudflare-vless-trojan",
-          "icon": "/assets/favicon_1776484782444.png"
         }
       ],
       "subCategories": []
