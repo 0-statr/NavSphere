@@ -16,14 +16,6 @@
           "icon": "/assets/favicon_1775317324100.png"
         },
         {
-          "id": "item-1775828556730",
-          "enabled": true,
-          "title": "订阅管理系统",
-          "href": "https://subscription-manager.testsky.workers.dev/admin",
-          "description": "使用搜索与分类快速定位订阅，开启农历显示可同步查看农历日期",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=subscription-manager.testsky.workers.dev"
-        },
-        {
           "id": "item-1776043222923",
           "enabled": true,
           "title": "Komari",
@@ -125,14 +117,6 @@
       "description": "",
       "enabled": true,
       "items": [
-        {
-          "id": "item-1775315133102",
-          "enabled": true,
-          "title": "Sublink Worker - 订阅链接转换工具",
-          "href": "https://duonaz.eu.cc/",
-          "description": "Convert and optimize your subscription links easily",
-          "icon": "/assets/favicon_1775315129162.ico"
-        },
         {
           "id": "item-1775315427009",
           "enabled": true,
