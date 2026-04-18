@@ -16,14 +16,6 @@
           "icon": "/assets/favicon_1775317324100.png"
         },
         {
-          "id": "item-1776043222923",
-          "enabled": true,
-          "title": "Komari",
-          "href": "https://duonaz.ee.cd/",
-          "description": "A simple server monitor tool.",
-          "icon": "/assets/favicon_1776043221843.ico"
-        },
-        {
           "id": "item-1776504963422",
           "enabled": true,
           "title": "订阅管理系统",
