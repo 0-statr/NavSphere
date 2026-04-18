@@ -256,6 +256,14 @@
           "href": "https://go.sssc.nyc.mn/js-obfuscator",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=go.sssc.nyc.mn"
+        },
+        {
+          "id": "item-1776484785946",
+          "enabled": true,
+          "title": "Cloudflare-vless-trojan/Vless_workers_pages at main · yonggekkk/Cloudflare-vless-trojan",
+          "href": "https://github.com/yonggekkk/Cloudflare-vless-trojan/tree/main/Vless_workers_pages",
+          "description": "CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 - Cloudflare-vless-trojan/Vless_workers_pages at main · yonggekkk/Cloudflare-vless-trojan",
+          "icon": "/assets/favicon_1776484782444.png"
         }
       ],
       "subCategories": []
