@@ -22,6 +22,14 @@
           "href": "https://sub.duonaz.eu.org/admin",
           "description": "使用搜索与分类快速定位订阅，开启农历显示可同步查看农历日期",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=sub.duonaz.eu.org"
+        },
+        {
+          "id": "item-1776512926107",
+          "enabled": true,
+          "title": "Komari",
+          "href": "https://duonaz.ee.cd/",
+          "description": "访问 duonaz.ee.cd",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=duonaz.ee.cd"
         }
       ],
       "subCategories": []
