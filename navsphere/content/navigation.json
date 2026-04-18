@@ -22,6 +22,14 @@
           "href": "https://duonaz.ee.cd/",
           "description": "A simple server monitor tool.",
           "icon": "/assets/favicon_1776043221843.ico"
+        },
+        {
+          "id": "item-1776504963422",
+          "enabled": true,
+          "title": "订阅管理系统",
+          "href": "https://sub.duonaz.eu.org/admin",
+          "description": "使用搜索与分类快速定位订阅，开启农历显示可同步查看农历日期",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=sub.duonaz.eu.org"
         }
       ],
       "subCategories": []
