@@ -196,6 +196,14 @@
           "href": "https://genpass-uuid.testsky.workers.dev/",
           "description": "🔒 本工具不会收集或上传任何用户数据，所有生成记录仅保存在您的浏览器 localStorage 中。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=genpass-uuid.testsky.workers.dev"
+        },
+        {
+          "id": "item-1776503996311",
+          "enabled": true,
+          "title": "PanHub - 全网最全的网盘搜索 · PanHub",
+          "href": "https://panhubshenzjdcom-teal-kappa.vercel.app/",
+          "description": "聚合阿里云盘、夸克、百度网盘、115、迅雷等平台，实时检索各类分享链接与资源，免费、快速、无广告。",
+          "icon": "/assets/favicon_1776503990424.ico"
         }
       ],
       "subCategories": []
