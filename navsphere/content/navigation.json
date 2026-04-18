@@ -204,6 +204,14 @@
           "href": "https://panhubshenzjdcom-teal-kappa.vercel.app/",
           "description": "聚合阿里云盘、夸克、百度网盘、115、迅雷等平台，实时检索各类分享链接与资源，免费、快速、无广告。",
           "icon": "/assets/favicon_1776503990424.ico"
+        },
+        {
+          "id": "item-1776504865007",
+          "enabled": true,
+          "title": "Sublink Worker - 订阅链接转换工具",
+          "href": "https://sublink.duonaz.eu.org/",
+          "description": "Convert and optimize your subscription links easily",
+          "icon": "/assets/favicon_1776504861949.ico"
         }
       ],
       "subCategories": []
