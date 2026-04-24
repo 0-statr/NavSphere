@@ -220,6 +220,14 @@
           "href": "https://vps8.zz.cd/",
           "description": "访问 vps8.zz.cd",
           "icon": "/assets/favicon_1776781638334.png"
+        },
+        {
+          "id": "item-1777038518173",
+          "enabled": true,
+          "title": "ImprovMX——免费邮件转发",
+          "href": "https://app.improvmx.com/domains/haha.duonaz.eu.org/logs?dateFrom=2026-04-17&dateTo=2026-04-24",
+          "description": "Set up email forwarding in seconds and start receiving and sending emails with your domain name. Absolutely free. No registration. 24/7 Support.",
+          "icon": "/assets/favicon_1777038510105.png"
         }
       ],
       "subCategories": []
