@@ -304,6 +304,14 @@
           "href": "https://www.nodeloc.com/t/topic/83167",
           "description": "申请地址依旧没变：NodeLoc Free Hosting \n以及新增了一台服务器： \n  \n▶ \n一点提示\n\nvmiss 服务器： \n面板地址：https://vmiss.nodeloc.com/ \n数据库管理地址：登录 - Adminer \n&amp;hellip;",
           "icon": "/assets/favicon_1776864612277.png"
+        },
+        {
+          "id": "item-1777034196214",
+          "enabled": true,
+          "title": "Chat - ZenMux",
+          "href": "https://zenmux.ai/platform/chat?chatId=new_chat",
+          "description": "DeepSeek 最新模型：DeepSeek V4 Flash。",
+          "icon": "/assets/favicon_1777034185228.svg"
         }
       ],
       "subCategories": []
