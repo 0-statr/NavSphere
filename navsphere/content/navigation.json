@@ -312,6 +312,14 @@
           "href": "https://zenmux.ai/platform/chat?chatId=new_chat",
           "description": "DeepSeek 最新模型：DeepSeek V4 Flash。",
           "icon": "/assets/favicon_1777034185228.svg"
+        },
+        {
+          "id": "item-1777036588557",
+          "enabled": true,
+          "title": "Wispbyte - Dashboard",
+          "href": "https://wispbyte.com/client/dashboard",
+          "description": "Free hosting forever! No renewals, no credits needed. Deploy websites, Discord bots, and applications with our reliable 24/7 hosting platform.",
+          "icon": "/assets/favicon_1777036580259.ico"
         }
       ],
       "subCategories": []
