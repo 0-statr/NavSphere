@@ -290,14 +290,6 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=go.sssc.nyc.mn"
         },
         {
-          "id": "item-1776505551908",
-          "enabled": true,
-          "title": "ClawCloud Run",
-          "href": "https://ap-southeast-1.run.claw.cloud/",
-          "description": "ClawCloud",
-          "icon": "/assets/favicon_1776505546984.png"
-        },
-        {
           "id": "item-1776533805169",
           "enabled": true,
           "title": "【签到得余额】可每月免费获取台湾Hinet家宽VPS的方法 ，也可用于续费/购买其他小鸡。 - 商业与金融 / 羊毛党 - NodeLoc",
