@@ -228,6 +228,14 @@
           "href": "https://app.improvmx.com/domains/haha.duonaz.eu.org/logs?dateFrom=2026-04-17&dateTo=2026-04-24",
           "description": "Set up email forwarding in seconds and start receiving and sending emails with your domain name. Absolutely free. No registration. 24/7 Support.",
           "icon": "/assets/favicon_1777038510105.png"
+        },
+        {
+          "id": "item-1777129985265",
+          "enabled": true,
+          "title": "Overview | 0-statr | Deploy",
+          "href": "https://console.deno.com/0-statr",
+          "description": "Isolated environments for safely executing code.",
+          "icon": "/assets/favicon_1777129976934.svg"
         }
       ],
       "subCategories": []
