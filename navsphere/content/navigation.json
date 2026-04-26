@@ -320,6 +320,14 @@
           "href": "https://wispbyte.com/client/dashboard",
           "description": "Free hosting forever! No renewals, no credits needed. Deploy websites, Discord bots, and applications with our reliable 24/7 hosting platform.",
           "icon": "/assets/favicon_1777036580259.ico"
+        },
+        {
+          "id": "item-1777175815067",
+          "enabled": true,
+          "title": "免费VPS - 低价VPS/服务器/虚拟主机情报站",
+          "href": "https://vps.qd.je/tag-%E5%85%8D%E8%B4%B9vps.html",
+          "description": "访问 vps.qd.je",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=vps.qd.je"
         }
       ],
       "subCategories": []
