@@ -336,6 +336,14 @@
           "href": "https://www.nodeloc.com/t/topic/83498",
           "description": "RT \n今天收到了邮件说我之前注册的eu.cc还有60天就到期了，需要续费的邮件 \n  \n登录后，到后台看我的域名那里，点击续费，但要收1.8。于是退出。 \n  \n \n回到主页，必须从这里进入免费注册的入口。也可以直接从下面地址进入。 \n  &amp;hellip;",
           "icon": "/assets/favicon_1777215757211.png"
+        },
+        {
+          "id": "item-1777300678228",
+          "enabled": true,
+          "title": "Google",
+          "href": "https://www.google.com/",
+          "description": "",
+          "icon": "/assets/favicon_1777300674706.ico"
         }
       ],
       "subCategories": []
