@@ -290,14 +290,6 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=go.sssc.nyc.mn"
         },
         {
-          "id": "item-1776864621407",
-          "enabled": true,
-          "title": "很好，经过一段时间的加急整改，现在又恢复运行了 - 互联网服务 / 公告 - NodeLoc",
-          "href": "https://www.nodeloc.com/t/topic/83167",
-          "description": "申请地址依旧没变：NodeLoc Free Hosting \n以及新增了一台服务器： \n  \n▶ \n一点提示\n\nvmiss 服务器： \n面板地址：https://vmiss.nodeloc.com/ \n数据库管理地址：登录 - Adminer \n&amp;hellip;",
-          "icon": "/assets/favicon_1776864612277.png"
-        },
-        {
           "id": "item-1777034196214",
           "enabled": true,
           "title": "Chat - ZenMux",
