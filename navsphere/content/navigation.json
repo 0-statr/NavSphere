@@ -288,14 +288,6 @@
           "href": "https://go.sssc.nyc.mn/js-obfuscator",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=go.sssc.nyc.mn"
-        },
-        {
-          "id": "item-1777036588557",
-          "enabled": true,
-          "title": "Wispbyte - Dashboard",
-          "href": "https://wispbyte.com/client/dashboard",
-          "description": "Free hosting forever! No renewals, no credits needed. Deploy websites, Discord bots, and applications with our reliable 24/7 hosting platform.",
-          "icon": "/assets/favicon_1777036580259.ico"
         }
       ],
       "subCategories": []
