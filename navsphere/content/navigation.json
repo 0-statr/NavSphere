@@ -236,6 +236,14 @@
           "href": "https://panel.adkynet.com/auth/login",
           "description": "© 2015 - 2026 Pterodactyl Software",
           "icon": "/assets/favicon_1777475648413.png"
+        },
+        {
+          "id": "item-1777475694894",
+          "enabled": true,
+          "title": "Dashboard",
+          "href": "https://panel.adkynet.com/",
+          "description": "",
+          "icon": "/assets/favicon_1777475691265.png"
         }
       ],
       "subCategories": []
