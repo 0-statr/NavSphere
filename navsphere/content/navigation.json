@@ -246,14 +246,6 @@
           "href": "https://www.dabai.in/user",
           "description": "Updates and statistics",
           "icon": "/assets/favicon_1775315107571.ico"
-        },
-        {
-          "id": "item-1776183708050",
-          "enabled": true,
-          "title": "NodeJS-Small | File Manager",
-          "href": "https://panel.adkynet.com/server/26dc4e77/files#/.npm",
-          "description": "Pterodactyl® © 2015 - 2026",
-          "icon": "/assets/favicon_1776183698813.png"
         }
       ],
       "subCategories": []
