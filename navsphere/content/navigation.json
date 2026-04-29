@@ -228,6 +228,14 @@
           "href": "https://console.deno.com/0-statr",
           "description": "Isolated environments for safely executing code.",
           "icon": "/assets/favicon_1777129976934.svg"
+        },
+        {
+          "id": "item-1777475653464",
+          "enabled": true,
+          "title": "AdKyNet SAS",
+          "href": "https://panel.adkynet.com/auth/login",
+          "description": "© 2015 - 2026 Pterodactyl Software",
+          "icon": "/assets/favicon_1777475648413.png"
         }
       ],
       "subCategories": []
