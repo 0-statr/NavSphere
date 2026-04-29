@@ -230,14 +230,6 @@
           "icon": "/assets/favicon_1777129976934.svg"
         },
         {
-          "id": "item-1777475653464",
-          "enabled": true,
-          "title": "AdKyNet SAS",
-          "href": "https://panel.adkynet.com/auth/login",
-          "description": "© 2015 - 2026 Pterodactyl Software",
-          "icon": "/assets/favicon_1777475648413.png"
-        },
-        {
           "id": "item-1777475694894",
           "enabled": true,
           "title": "Dashboard",
@@ -262,16 +254,7 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "item-1775315111018",
-          "enabled": true,
-          "title": "用户中心 — 大白",
-          "href": "https://www.dabai.in/user",
-          "description": "Updates and statistics",
-          "icon": "/assets/favicon_1775315107571.ico"
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
