@@ -290,14 +290,6 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=go.sssc.nyc.mn"
         },
         {
-          "id": "item-1777034196214",
-          "enabled": true,
-          "title": "Chat - ZenMux",
-          "href": "https://zenmux.ai/platform/chat?chatId=new_chat",
-          "description": "DeepSeek 最新模型：DeepSeek V4 Flash。",
-          "icon": "/assets/favicon_1777034185228.svg"
-        },
-        {
           "id": "item-1777036588557",
           "enabled": true,
           "title": "Wispbyte - Dashboard",
