@@ -30,6 +30,14 @@
           "href": "https://web.telegram.org/a/#777000",
           "description": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
           "icon": "/assets/favicon_1777554837049.png"
+        },
+        {
+          "id": "item-1777554859532",
+          "enabled": true,
+          "title": "YouTube",
+          "href": "https://www.youtube.com/",
+          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+          "icon": "/assets/favicon_1777554855076.png"
         }
       ],
       "subCategories": []
