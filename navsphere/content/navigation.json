@@ -38,6 +38,14 @@
           "href": "https://www.youtube.com/",
           "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
           "icon": "/assets/favicon_1777554855076.png"
+        },
+        {
+          "id": "item-1777554870744",
+          "enabled": true,
+          "title": "白嫖笔记 - Google 文档",
+          "href": "https://docs.google.com/document/d/1Xv-vkTAUWUdTKSrQfSWsFZFvtCIq3RarVYRN3-webdI/edit?tab=t.0",
+          "description": "使用个人 Google 账号或 Google Workspace 账号（企业用途）访问 Google 文档。",
+          "icon": "/assets/favicon_1777554866363.png"
         }
       ],
       "subCategories": []
