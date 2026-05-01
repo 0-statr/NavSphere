@@ -234,6 +234,14 @@
           "href": "https://www.dabai.in/user",
           "description": "Updates and statistics",
           "icon": "/assets/favicon_1777475712705.ico"
+        },
+        {
+          "id": "item-1777619881837",
+          "enabled": true,
+          "title": "DNS Leak Test - BrowserLeaks",
+          "href": "https://browserleaks.com/dns",
+          "description": "The DNS Leak Test is a tool used to determine which DNS servers your browser is using to resolve domain names. This test attempts to resolve 50 randomly generated domain names, of which 25 are IPv4-only and 25 are IPv6-only.",
+          "icon": "/assets/favicon_1777619874355.ico"
         }
       ],
       "subCategories": []
