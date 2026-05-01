@@ -276,6 +276,14 @@
           "href": "https://dash.dnssr.com/",
           "description": "Subdomain Service · 子域名托管引擎",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.dnssr.com"
+        },
+        {
+          "id": "item-1777652217987",
+          "enabled": true,
+          "title": "免费主机HidenCloud | 教程 | System Blog",
+          "href": "https://pro.id.x10.mx/jiaocheng/vps/mian-fei-zhu-ji-hidencloud",
+          "description": "",
+          "icon": "https://pro.id.x10.mx/~gitbook/image?url=https%3A%2F%2F3315750050-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fcollections%252FMMx89zSUZpp5TDxGYxOm%252Ficon%252FytivXDA7JDjPgb2MiZNT%252F4202125blogbloggerlogosocialsocialmedia-115692_115609.png%3Falt%3Dmedia%26token%3D8ec23a14-715b-490c-a093-f258f7a3a77e&amp;width=48&amp;height=48&amp;sign=d034e296&amp;sv=2"
         }
       ],
       "subCategories": []
