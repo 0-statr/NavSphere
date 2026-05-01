@@ -242,6 +242,14 @@
           "href": "https://browserleaks.com/dns",
           "description": "The DNS Leak Test is a tool used to determine which DNS servers your browser is using to resolve domain names. This test attempts to resolve 50 randomly generated domain names, of which 25 are IPv4-only and 25 are IPv6-only.",
           "icon": "/assets/favicon_1777619874355.ico"
+        },
+        {
+          "id": "item-1777664649760",
+          "enabled": true,
+          "title": "Dashboard - HidenCloud",
+          "href": "https://dash.hidencloud.com/dashboard?_gl=1*hn68j1*_gcl_au*MTQ2OTc3MTc3LjE3Nzc2NTEzNTguMTYxODQ0MTI0OC4xNzc3NjUxMzYxLjE3Nzc2NTE1Njc.*_ga*MzI4NzY2MDM3LjE3Nzc2NTEzNTg.*_ga_W7JJ5G9D4Z*czE3Nzc2NTEzNTckbzEkZzEkdDE3Nzc2NTM4MjMkajYwJGwwJGgw",
+          "description": "Join HidenCloud today for robust, secure, and scalable hosting solutions.",
+          "icon": "/assets/favicon_1777664644394.png"
         }
       ],
       "subCategories": []
