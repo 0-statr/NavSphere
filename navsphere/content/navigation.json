@@ -258,6 +258,14 @@
           "href": "https://cp.host2play.gratis/server/5c800b37",
           "description": "",
           "icon": "/assets/favicon_1777803924712.png"
+        },
+        {
+          "id": "item-1777826032628",
+          "enabled": true,
+          "title": "宝可梦免费加速",
+          "href": "https://web4.52pokemon.cc/dashboard",
+          "description": "You can use the Analytics Dashboard to explore how many new users download reports daily and monthly",
+          "icon": "/assets/favicon_1777826020653.png"
         }
       ],
       "subCategories": []
