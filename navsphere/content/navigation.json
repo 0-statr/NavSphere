@@ -300,6 +300,14 @@
           "href": "https://dash.dnssr.com/",
           "description": "Subdomain Service · 子域名托管引擎",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.dnssr.com"
+        },
+        {
+          "id": "item-1777883398222",
+          "enabled": true,
+          "title": "Send and receive SMS messages anonymously for free with a US phone number - httpSMS",
+          "href": "https://sandbox.httpsms.com/",
+          "description": "You can use the httpSMS sandbox to send and receive text messages (SMS) for free with a US phone number.",
+          "icon": "/assets/favicon_1777883391307.ico"
         }
       ],
       "subCategories": []
