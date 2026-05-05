@@ -196,22 +196,6 @@
           "icon": "/assets/favicon_1776594054989.png"
         },
         {
-          "id": "item-1776781644172",
-          "enabled": true,
-          "title": "客户区域",
-          "href": "https://vps8.zz.cd/",
-          "description": "访问 vps8.zz.cd",
-          "icon": "/assets/favicon_1776781638334.png"
-        },
-        {
-          "id": "item-1777475716258",
-          "enabled": true,
-          "title": "用户中心 — 大白",
-          "href": "https://www.dabai.in/user",
-          "description": "Updates and statistics",
-          "icon": "/assets/favicon_1777475712705.ico"
-        },
-        {
           "id": "item-1777619881837",
           "enabled": true,
           "title": "DNS Leak Test - BrowserLeaks",
