@@ -300,6 +300,14 @@
           "href": "https://sandbox.httpsms.com/",
           "description": "You can use the httpSMS sandbox to send and receive text messages (SMS) for free with a US phone number.",
           "icon": "/assets/favicon_1777883391307.ico"
+        },
+        {
+          "id": "item-1777955296241",
+          "enabled": true,
+          "title": "真0元！开通ChatGPT Plus 教程（ 已实测） 可用的话评论帮dd",
+          "href": "https://www.nodeseek.com/post-714755-1",
+          "description": "实测真的好用邀请链接https://discord.gg/rhqpxt3Y进入后看左边的channel免费申请一个域名邮箱点“申请账号”然后选一个邮箱前缀即可邮件会发到这里申请autopay激活进入左边channel中的“sheerid机器人”，可以先签到领取一下积分，再点击“ChatGPTAutopay自动激活P",
+          "icon": "/assets/favicon_1777955292345.png"
         }
       ],
       "subCategories": []
