@@ -311,6 +311,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1777975564518",
+      "title": "免费资源",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
