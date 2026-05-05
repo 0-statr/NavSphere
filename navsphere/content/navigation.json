@@ -204,14 +204,6 @@
           "icon": "/assets/favicon_1777038510105.png"
         },
         {
-          "id": "item-1777129985265",
-          "enabled": true,
-          "title": "Overview | 0-statr | Deploy",
-          "href": "https://console.deno.com/0-statr",
-          "description": "Isolated environments for safely executing code.",
-          "icon": "/assets/favicon_1777129976934.svg"
-        },
-        {
           "id": "item-1777475716258",
           "enabled": true,
           "title": "用户中心 — 大白",
