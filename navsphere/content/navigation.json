@@ -292,6 +292,14 @@
           "href": "https://student.muggle.edu.kg/index.html#inbox",
           "description": "剩余额度 1，当前已有 1。别名转赠手续费 100 积分/次，转赠会清空该别名历史邮件。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=student.muggle.edu.kg"
+        },
+        {
+          "id": "item-1777977883505",
+          "enabled": true,
+          "title": "PanHub - 全网最全的网盘搜索 · PanHub",
+          "href": "https://panhubshenzjdcom-teal-kappa.vercel.app/",
+          "description": "聚合阿里云盘、夸克、百度网盘、115、迅雷等平台，实时检索各类分享链接与资源，免费、快速、无广告。",
+          "icon": "/assets/favicon_1777977878976.ico"
         }
       ],
       "subCategories": []
