@@ -263,6 +263,15 @@
       "subCategories": []
     },
     {
+      "id": "1777975564518",
+      "title": "免费资源",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1775317910489",
       "title": "一些好玩的项目",
       "icon": "FolderKanban",
@@ -310,15 +319,6 @@
           "icon": "/assets/favicon_1777955292345.png"
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1777975564518",
-      "title": "免费资源",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
