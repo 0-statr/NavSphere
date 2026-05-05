@@ -280,22 +280,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "item-1775319947088",
-          "enabled": true,
-          "title": "免费4K高清壁纸-电脑背景图片-Mac壁纸网站「哲风壁纸」",
-          "href": "https://haowallpaper.com/",
-          "description": "访问 haowallpaper.com",
-          "icon": "/assets/favicon_1775319943458.png"
-        },
-        {
-          "id": "item-1776266358193",
-          "enabled": true,
-          "title": "JavaScript 混淆加密工具",
-          "href": "https://go.sssc.nyc.mn/js-obfuscator",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=go.sssc.nyc.mn"
-        },
-        {
           "id": "item-1777649779234",
           "enabled": true,
           "title": "DNSSR · 子域名管理控制台",
