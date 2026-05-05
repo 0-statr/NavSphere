@@ -292,6 +292,14 @@
           "href": "https://panhubshenzjdcom-teal-kappa.vercel.app/",
           "description": "聚合阿里云盘、夸克、百度网盘、115、迅雷等平台，实时检索各类分享链接与资源，免费、快速、无广告。",
           "icon": "/assets/favicon_1777977878976.ico"
+        },
+        {
+          "id": "item-1778002609204",
+          "enabled": true,
+          "title": "Search by images and photos — Yandex Images",
+          "href": "https://yandex.com/images",
+          "description": "Поиск изображений в Яндекс Картинках: открытки, заставки для рабочего стола, забавные картинки, схемы и иллюстрированные инструкции. Получайте ответы на ваши вопросы в виде изображений",
+          "icon": "/assets/favicon_1778002603959.svg"
         }
       ],
       "subCategories": []
