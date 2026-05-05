@@ -212,14 +212,6 @@
           "icon": "/assets/favicon_1777129976934.svg"
         },
         {
-          "id": "item-1777475694894",
-          "enabled": true,
-          "title": "Dashboard",
-          "href": "https://panel.adkynet.com/",
-          "description": "",
-          "icon": "/assets/favicon_1777475691265.png"
-        },
-        {
           "id": "item-1777475716258",
           "enabled": true,
           "title": "用户中心 — 大白",
