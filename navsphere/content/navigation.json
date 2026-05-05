@@ -268,6 +268,14 @@
           "href": "https://haowallpaper.com/",
           "description": "访问 haowallpaper.com",
           "icon": "/assets/favicon_1777976791351.png"
+        },
+        {
+          "id": "item-1777976846427",
+          "enabled": true,
+          "title": "真0元！开通ChatGPT Plus 教程（ 已实测） 可用的话给个🍗评论帮dd",
+          "href": "https://www.nodeseek.com/post-714755-1",
+          "description": "邀请链接https://discord.gg/rhqpxt3Y进入后看左边的channel免费申请一个域名邮箱翻到置顶的消息，点“申请账号”然后选一个邮箱前缀即可注册Chatgpt新号用这个新的域名邮箱去chatgpt注册一个新号，验证码邮件会发到这里申请autopay激活进入左边channel中的“sheerid",
+          "icon": "/assets/favicon_1777976841921.png"
         }
       ],
       "subCategories": []
