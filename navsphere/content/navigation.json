@@ -295,15 +295,6 @@
         }
       ],
       "subCategories": []
-    },
-    {
-      "id": "1775317910489",
-      "title": "一些好玩的项目",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
