@@ -292,6 +292,14 @@
           "href": "https://dash.dnssr.com/",
           "description": "Subdomain Service · 子域名托管引擎",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.dnssr.com"
+        },
+        {
+          "id": "item-1777976967551",
+          "enabled": true,
+          "title": "MuggleMail 控制台",
+          "href": "https://student.muggle.edu.kg/index.html#inbox",
+          "description": "剩余额度 1，当前已有 1。别名转赠手续费 100 积分/次，转赠会清空该别名历史邮件。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=student.muggle.edu.kg"
         }
       ],
       "subCategories": []
