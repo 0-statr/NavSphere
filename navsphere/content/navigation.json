@@ -284,6 +284,14 @@
           "href": "https://sandbox.httpsms.com/",
           "description": "You can use the httpSMS sandbox to send and receive text messages (SMS) for free with a US phone number.",
           "icon": "/assets/favicon_1777976854572.ico"
+        },
+        {
+          "id": "item-1777976871778",
+          "enabled": true,
+          "title": "DNSSR · 子域名管理控制台",
+          "href": "https://dash.dnssr.com/",
+          "description": "Subdomain Service · 子域名托管引擎",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.dnssr.com"
         }
       ],
       "subCategories": []
