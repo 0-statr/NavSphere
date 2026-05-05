@@ -276,6 +276,14 @@
           "href": "https://www.nodeseek.com/post-714755-1",
           "description": "邀请链接https://discord.gg/rhqpxt3Y进入后看左边的channel免费申请一个域名邮箱翻到置顶的消息，点“申请账号”然后选一个邮箱前缀即可注册Chatgpt新号用这个新的域名邮箱去chatgpt注册一个新号，验证码邮件会发到这里申请autopay激活进入左边channel中的“sheerid",
           "icon": "/assets/favicon_1777976841921.png"
+        },
+        {
+          "id": "item-1777976859531",
+          "enabled": true,
+          "title": "Send and receive SMS messages anonymously for free with a US phone number - httpSMS",
+          "href": "https://sandbox.httpsms.com/",
+          "description": "You can use the httpSMS sandbox to send and receive text messages (SMS) for free with a US phone number.",
+          "icon": "/assets/favicon_1777976854572.ico"
         }
       ],
       "subCategories": []
