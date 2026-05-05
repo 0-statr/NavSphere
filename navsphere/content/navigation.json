@@ -46,6 +46,14 @@
           "href": "https://docs.google.com/document/d/1Xv-vkTAUWUdTKSrQfSWsFZFvtCIq3RarVYRN3-webdI/edit?tab=t.0",
           "description": "访问 docs.google.com",
           "icon": "/assets/favicon_1777555735984.png"
+        },
+        {
+          "id": "item-1777976034909",
+          "enabled": true,
+          "title": "Client Area",
+          "href": "https://vps8.zz.cd/",
+          "description": "访问 vps8.zz.cd",
+          "icon": "/assets/favicon_1777976026102.png"
         }
       ],
       "subCategories": []
