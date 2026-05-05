@@ -132,14 +132,6 @@
           "icon": "/assets/favicon_1775363776655.png"
         },
         {
-          "id": "item-1775370920439",
-          "enabled": true,
-          "title": "控制台 - 麻瓜专修学院邮箱",
-          "href": "https://student.muggle.edu.kg/index.html#inbox",
-          "description": "访问 student.muggle.edu.kg",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=student.muggle.edu.kg"
-        },
-        {
           "id": "item-1775375515481",
           "enabled": true,
           "title": "ChatGPT",
