@@ -300,6 +300,14 @@
           "href": "https://yandex.com/images",
           "description": "Поиск изображений в Яндекс Картинках: открытки, заставки для рабочего стола, забавные картинки, схемы и иллюстрированные инструкции. Получайте ответы на ваши вопросы в виде изображений",
           "icon": "/assets/favicon_1778002603959.svg"
+        },
+        {
+          "id": "item-1778412457934",
+          "enabled": true,
+          "title": "管理后台",
+          "href": "https://hihi.duonaz.dpdns.org/admin",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=hihi.duonaz.dpdns.org"
         }
       ],
       "subCategories": []
