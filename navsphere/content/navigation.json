@@ -316,6 +316,14 @@
           "href": "https://hihi.duonaz.dpdns.org/admin",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=hihi.duonaz.dpdns.org"
+        },
+        {
+          "id": "item-1778767750255",
+          "enabled": true,
+          "title": "UlziX-首页",
+          "href": "https://idc.ulzix.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=idc.ulzix.com"
         }
       ],
       "subCategories": []
