@@ -198,30 +198,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "item-1777975614418",
-          "enabled": true,
-          "title": "宝可梦免费加速",
-          "href": "https://web4.52pokemon.cc/dashboard",
-          "description": "You can use the Analytics Dashboard to explore how many new users download reports daily and monthly",
-          "icon": "/assets/favicon_1777975607254.png"
-        },
-        {
-          "id": "item-1777975670639",
-          "enabled": true,
-          "title": "host2play.gratis",
-          "href": "https://cp.host2play.gratis/server/5c800b37",
-          "description": "The requested resource could not be found on the server.",
-          "icon": "/assets/favicon_1777975665096.png"
-        },
-        {
-          "id": "item-1777975688702",
-          "enabled": true,
-          "title": "Dashboard - HidenCloud",
-          "href": "https://dash.hidencloud.com/dashboard?_gl=1*hn68j1*_gcl_au*MTQ2OTc3MTc3LjE3Nzc2NTEzNTguMTYxODQ0MTI0OC4xNzc3NjUxMzYxLjE3Nzc2NTE1Njc.*_ga*MzI4NzY2MDM3LjE3Nzc2NTEzNTg.*_ga_W7JJ5G9D4Z*czE3Nzc2NTEzNTckbzEkZzEkdDE3Nzc2NTM4MjMkajYwJGwwJGgw",
-          "description": "Join HidenCloud today for robust, secure, and scalable hosting solutions.",
-          "icon": "/assets/favicon_1777975684796.png"
-        },
-        {
           "id": "item-1777975786717",
           "enabled": true,
           "title": "Dashboard",
@@ -268,22 +244,6 @@
           "href": "https://sandbox.httpsms.com/",
           "description": "You can use the httpSMS sandbox to send and receive text messages (SMS) for free with a US phone number.",
           "icon": "/assets/favicon_1777976854572.ico"
-        },
-        {
-          "id": "item-1777976871778",
-          "enabled": true,
-          "title": "DNSSR · 子域名管理控制台",
-          "href": "https://dash.dnssr.com/",
-          "description": "Subdomain Service · 子域名托管引擎",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.dnssr.com"
-        },
-        {
-          "id": "item-1777976967551",
-          "enabled": true,
-          "title": "MuggleMail 控制台",
-          "href": "https://student.muggle.edu.kg/index.html#inbox",
-          "description": "剩余额度 1，当前已有 1。别名转赠手续费 100 积分/次，转赠会清空该别名历史邮件。",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=student.muggle.edu.kg"
         },
         {
           "id": "item-1777977883505",
