@@ -186,6 +186,14 @@
           "href": "https://browserleaks.com/dns",
           "description": "The DNS Leak Test is a tool used to determine which DNS servers your browser is using to resolve domain names. This test attempts to resolve 50 randomly generated domain names, of which 25 are IPv4-only and 25 are IPv6-only.",
           "icon": "/assets/favicon_1777619874355.ico"
+        },
+        {
+          "id": "item-1779297814470",
+          "enabled": true,
+          "title": "Scamalytics",
+          "href": "https://scamalytics.com/",
+          "description": "Scamalytics IP address fraud risk lookup. Check IP addresses on our website or use our API. Check for proxies and fraud profile.",
+          "icon": "/assets/favicon_1779297810479.png"
         }
       ],
       "subCategories": []
