@@ -260,6 +260,14 @@
           "href": "https://boxd.sh/app/",
           "description": "从虚拟机访问您的存储库——克隆、推送和使用 gh CLI。",
           "icon": "/assets/favicon_1779028039025.svg"
+        },
+        {
+          "id": "item-1779458553886",
+          "enabled": true,
+          "title": "仪表盘 - 牢大云 VPN",
+          "href": "https://laodayun.com/#/dashboard",
+          "description": "",
+          "icon": "/assets/favicon_1779458545662.png"
         }
       ],
       "subCategories": []
