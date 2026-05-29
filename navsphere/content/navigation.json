@@ -252,14 +252,6 @@
           "href": "https://idc.ulzix.com/",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=idc.ulzix.com"
-        },
-        {
-          "id": "item-1779028043265",
-          "enabled": true,
-          "title": "boxd",
-          "href": "https://boxd.sh/app/",
-          "description": "从虚拟机访问您的存储库——克隆、推送和使用 gh CLI。",
-          "icon": "/assets/favicon_1779028039025.svg"
         }
       ],
       "subCategories": []
