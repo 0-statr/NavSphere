@@ -62,14 +62,6 @@
           "href": "https://nz.duonaz.eu.org/",
           "description": "",
           "icon": "/assets/favicon_1778511794921.svg"
-        },
-        {
-          "id": "item-1779464022975",
-          "enabled": true,
-          "title": "Client Area",
-          "href": "https://store.9v4.com/",
-          "description": "访问 store.9v4.com",
-          "icon": "/assets/favicon_1779464016801.png"
         }
       ],
       "subCategories": []
