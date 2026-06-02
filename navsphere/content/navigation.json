@@ -244,6 +244,14 @@
           "href": "https://idc.ulzix.com/",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=idc.ulzix.com"
+        },
+        {
+          "id": "item-1780416511890",
+          "enabled": true,
+          "title": "DCDeploy",
+          "href": "https://dash.dcdeploy.com/organization/6a1dc200bec378b0c9cc5388/duonaz/",
+          "description": "DCDeploy",
+          "icon": "/assets/favicon_1780416504812.ico"
         }
       ],
       "subCategories": []
