@@ -252,6 +252,14 @@
           "href": "https://dash.dcdeploy.com/organization/6a1dc200bec378b0c9cc5388/duonaz/",
           "description": "DCDeploy",
           "icon": "/assets/favicon_1780416504812.ico"
+        },
+        {
+          "id": "item-1780586464633",
+          "enabled": true,
+          "title": "Client Area - WebHostMost",
+          "href": "https://client.webhostmost.com/clientarea.php",
+          "description": "Log into your Client Area at least once every 45 days to prevent the deletion of your Free Service Plan.If not, your service and data will be permanently delete...",
+          "icon": "/assets/favicon_1780586458809.ico"
         }
       ],
       "subCategories": []
