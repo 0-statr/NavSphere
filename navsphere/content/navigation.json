@@ -252,6 +252,14 @@
           "href": "https://client.webhostmost.com/clientarea.php",
           "description": "Log into your Client Area at least once every 45 days to prevent the deletion of your Free Service Plan.If not, your service and data will be permanently delete...",
           "icon": "/assets/favicon_1780586458809.ico"
+        },
+        {
+          "id": "item-1781274302154",
+          "enabled": true,
+          "title": "共享邮箱系统",
+          "href": "https://110.us.kg/yx/",
+          "description": "",
+          "icon": "/assets/favicon_1781274296845.png"
         }
       ],
       "subCategories": []
