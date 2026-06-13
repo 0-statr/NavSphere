@@ -302,14 +302,6 @@
           "icon": "/assets/favicon_1781368360171.ico"
         },
         {
-          "id": "item-1781368812404",
-          "enabled": true,
-          "title": "MuggleMail 控制台",
-          "href": "https://student.muggle.edu.kg/index.html#inbox",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=student.muggle.edu.kg"
-        },
-        {
           "id": "item-1781368833683",
           "enabled": true,
           "title": "Cloud Mail",
