@@ -284,6 +284,14 @@
           "href": "https://dash.dnssr.com/",
           "description": "Subdomain Service · 子域名托管引擎",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.dnssr.com"
+        },
+        {
+          "id": "item-1781368104830",
+          "enabled": true,
+          "title": "ZFurDomains - 瑞域",
+          "href": "https://nic.zfur.domains/",
+          "description": "还没有账号？\n                    注册",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nic.zfur.domains"
         }
       ],
       "subCategories": []
