@@ -308,6 +308,14 @@
           "href": "https://www.linshiyouxiang.net/",
           "description": "临时邮箱, 谷歌邮箱, 域名邮箱,  24小时邮箱, 一次性邮箱, 匿名邮箱, 安全邮箱",
           "icon": "/assets/favicon_1781368360171.ico"
+        },
+        {
+          "id": "item-1781368812404",
+          "enabled": true,
+          "title": "MuggleMail 控制台",
+          "href": "https://student.muggle.edu.kg/index.html#inbox",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=student.muggle.edu.kg"
         }
       ],
       "subCategories": []
