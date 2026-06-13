@@ -260,6 +260,14 @@
           "href": "https://www.vortexa.cloud/free-hosting",
           "description": "Premium game server and Discord bot hosting at affordable prices. Python, Node.js, Lavalink, Java, Minecraft and more.",
           "icon": "/assets/favicon_1781323083192.png"
+        },
+        {
+          "id": "item-1781367473271",
+          "enabled": true,
+          "title": "FreeCloud 免费公益云服务",
+          "href": "https://www.freecloud.ltd/",
+          "description": "访问 www.freecloud.ltd",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.freecloud.ltd"
         }
       ],
       "subCategories": []
