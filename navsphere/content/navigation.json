@@ -292,6 +292,14 @@
           "href": "https://nic.zfur.domains/",
           "description": "还没有账号？\n                    注册",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=nic.zfur.domains"
+        },
+        {
+          "id": "item-1781368143832",
+          "enabled": true,
+          "title": "localhost.cc — 免费二级域名 | 免费域名注册",
+          "href": "https://localhost.cc/domains/duonaz.localhost.cc",
+          "description": "localhost.cc 为开发者、学生和创作者提供免费的二级域名。一键认领专属子域名，自助管理 DNS 解析（A / AAAA / CNAME / TXT），全球任播网络加速，永久免费续费。",
+          "icon": "/assets/favicon_1781368139816.svg"
         }
       ],
       "subCategories": []
