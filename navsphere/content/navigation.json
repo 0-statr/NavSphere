@@ -300,14 +300,6 @@
           "href": "https://www.linshiyouxiang.net/",
           "description": "临时邮箱, 谷歌邮箱, 域名邮箱,  24小时邮箱, 一次性邮箱, 匿名邮箱, 安全邮箱",
           "icon": "/assets/favicon_1781368360171.ico"
-        },
-        {
-          "id": "item-1781368833683",
-          "enabled": true,
-          "title": "Cloud Mail",
-          "href": "https://mail.pacu.edu.gr/inbox",
-          "description": "Cloud Mail 是一个 Serverless 响应式邮箱服务，支持邮件发送，可部署到 Cloudflare 平台，降低服务器成本。Cloud Mail is a serverless responsive email service that supports email sending and can be deployed on Cloudflare to reduce server costs.",
-          "icon": "/assets/favicon_1781368831130.png"
         }
       ],
       "subCategories": []
