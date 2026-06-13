@@ -40,14 +40,6 @@
           "icon": "/assets/favicon_1777555722173.png"
         },
         {
-          "id": "item-1777555739170",
-          "enabled": true,
-          "title": "白嫖笔记 - Google 文档",
-          "href": "https://docs.google.com/document/d/1Xv-vkTAUWUdTKSrQfSWsFZFvtCIq3RarVYRN3-webdI/edit?tab=t.0",
-          "description": "访问 docs.google.com",
-          "icon": "/assets/favicon_1777555735984.png"
-        },
-        {
           "id": "item-1777976034909",
           "enabled": true,
           "title": "Client Area",
