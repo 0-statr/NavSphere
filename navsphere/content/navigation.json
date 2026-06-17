@@ -38,6 +38,14 @@
           "description": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
           "icon": "/assets/favicon_1777555706552.png",
           "enabled": true
+        },
+        {
+          "id": "item-1781722891110",
+          "enabled": true,
+          "title": "订阅 - YouTube",
+          "href": "https://www.youtube.com/feed/subscriptions",
+          "description": "",
+          "icon": "/assets/favicon_1781722886467.png"
         }
       ],
       "subCategories": []
