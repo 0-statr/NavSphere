@@ -74,14 +74,6 @@
           "icon": "/assets/favicon_1775375510788.png"
         },
         {
-          "id": "item-1775493898219",
-          "enabled": true,
-          "title": "收件箱",
-          "href": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox",
-          "description": "访问 mail.google.com",
-          "icon": "/assets/favicon_1775493889791.png"
-        },
-        {
           "id": "item-1775494120220",
           "enabled": true,
           "title": "Cloudflare",
