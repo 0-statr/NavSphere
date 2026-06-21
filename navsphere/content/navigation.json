@@ -128,14 +128,6 @@
           "href": "https://scamalytics.com/",
           "description": "Scamalytics IP address fraud risk lookup. Check IP addresses on our website or use our API. Check for proxies and fraud profile.",
           "icon": "/assets/favicon_1779297810479.png"
-        },
-        {
-          "id": "item-1782032311084",
-          "enabled": true,
-          "title": "我的 DNS",
-          "href": "https://vps8.zz.cd/order/service/dns",
-          "description": "访问 vps8.zz.cd",
-          "icon": "/assets/favicon_1782032302986.png"
         }
       ],
       "subCategories": []
@@ -194,14 +186,6 @@
           "href": "https://dash.dcdeploy.com/organization/6a1dc200bec378b0c9cc5388/duonaz/",
           "description": "DCDeploy",
           "icon": "/assets/favicon_1780416504812.ico"
-        },
-        {
-          "id": "item-1781368104830",
-          "enabled": true,
-          "title": "ZFurDomains - 瑞域",
-          "href": "https://nic.zfur.domains/",
-          "description": "还没有账号？\n                    注册",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nic.zfur.domains"
         },
         {
           "id": "item-1781368143832",
