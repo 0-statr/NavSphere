@@ -188,14 +188,6 @@
           "icon": "/assets/favicon_1780416504812.ico"
         },
         {
-          "id": "item-1781274302154",
-          "enabled": true,
-          "title": "共享邮箱系统",
-          "href": "https://110.us.kg/yx/",
-          "description": "",
-          "icon": "/assets/favicon_1781274296845.png"
-        },
-        {
           "id": "item-1781368044249",
           "enabled": true,
           "title": "DNSSR · 子域名管理控制台",
