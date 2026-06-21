@@ -128,6 +128,14 @@
           "href": "https://scamalytics.com/",
           "description": "Scamalytics IP address fraud risk lookup. Check IP addresses on our website or use our API. Check for proxies and fraud profile.",
           "icon": "/assets/favicon_1779297810479.png"
+        },
+        {
+          "id": "item-1782032311084",
+          "enabled": true,
+          "title": "我的 DNS",
+          "href": "https://vps8.zz.cd/order/service/dns",
+          "description": "访问 vps8.zz.cd",
+          "icon": "/assets/favicon_1782032302986.png"
         }
       ],
       "subCategories": []
