@@ -220,14 +220,6 @@
           "icon": "/assets/favicon_1781368139816.svg"
         },
         {
-          "id": "item-1781368363128",
-          "enabled": true,
-          "title": "临时邮箱 - 临时谷歌邮箱 - 免费Gmail",
-          "href": "https://www.linshiyouxiang.net/",
-          "description": "临时邮箱, 谷歌邮箱, 域名邮箱,  24小时邮箱, 一次性邮箱, 匿名邮箱, 安全邮箱",
-          "icon": "/assets/favicon_1781368360171.ico"
-        },
-        {
           "id": "item-1781933295308",
           "enabled": true,
           "title": "AgentScope Platform — Build, Deploy & Share AI Agents",
