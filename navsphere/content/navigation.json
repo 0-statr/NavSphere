@@ -186,14 +186,6 @@
           "href": "https://dash.dcdeploy.com/organization/6a1dc200bec378b0c9cc5388/duonaz/",
           "description": "DCDeploy",
           "icon": "/assets/favicon_1780416504812.ico"
-        },
-        {
-          "id": "item-1781933295308",
-          "enabled": true,
-          "title": "AgentScope Platform — Build, Deploy & Share AI Agents",
-          "href": "https://platform.agentscope.io/deploy",
-          "description": "AgentScope Platform is an open-source hub for developing, deploying, and sharing AI agents, plugins, and skills. Build intelligent agents with ease.",
-          "icon": "/assets/favicon_1781933289298.svg"
         }
       ],
       "subCategories": []
