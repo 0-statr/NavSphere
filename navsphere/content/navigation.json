@@ -186,14 +186,6 @@
           "href": "https://platform.agentscope.io/deploy",
           "description": "AgentScope Platform is an open-source hub for developing, deploying, and sharing AI agents, plugins, and skills. Build intelligent agents with ease.",
           "icon": "/assets/favicon_1781933289298.svg"
-        },
-        {
-          "id": "item-1782739979099",
-          "enabled": true,
-          "title": "获取网站元数据失败，请检查网络连接或实例配置 - Google 搜索",
-          "href": "https://www.google.com/search?q=%E8%8E%B7%E5%8F%96%E7%BD%91%E7%AB%99%E5%85%83%E6%95%B0%E6%8D%AE%E5%A4%B1%E8%B4%A5%EF%BC%8C%E8%AF%B7%E6%A3%80%E6%9F%A5%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E6%88%96%E5%AE%9E%E4%BE%8B%E9%85%8D%E7%BD%AE&oq=&gs_lcrp=EgZjaHJvbWUqCQgDEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQkxMjI5ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8",
-          "description": "访问 www.google.com",
-          "icon": "/assets/favicon_1782739968746.png"
         }
       ],
       "subCategories": []
