@@ -128,14 +128,6 @@
           "href": "https://vps8.zz.cd/order/service/dns",
           "description": "访问 vps8.zz.cd",
           "icon": "/assets/favicon_1782033254757.png"
-        },
-        {
-          "id": "item-1782740032988",
-          "enabled": true,
-          "title": "Temp Mail-临时邮件-安全、即时、快速- DuckMail",
-          "href": "https://duckmail-green-beta.vercel.app/zh",
-          "description": "使用 DuckMail 保护您的个人邮箱地址免受垃圾邮件、机器人、钓鱼和其他在线滥用——安全的临时邮件服务。",
-          "icon": "https://img.116119.xyz/img/2025/06/08/547d9cd9739b8e15a51e510342af3fb0.png"
         }
       ],
       "subCategories": []
